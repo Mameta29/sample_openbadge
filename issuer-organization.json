@@ -1,0 +1,7 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "http://Mameta29.github.io/openbadge/issuer-organization.json",
+    "type": "Issuer",
+    "name": "Shinei Kikkawa",
+    "url": "https://github.com/Mameta29"
+}
